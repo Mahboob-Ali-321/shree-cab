@@ -1,0 +1,6 @@
+{
+  "name": "Shree Balajee Travels",
+  "description": "Premium 24x7 taxi service, car rental, outstation cabs, and tour packages based in Bartand, Dhanbad, Jharkhand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
